@@ -13,3 +13,4 @@
 13. Shivam Kumar Singh (https://github.com/Shivamkumar4848) : learner(html, css, js)
 14. Matthew Katz (https://github.com/mykatz): Fullstack Web Dev.  Proficient in Nodejs, Java, Python.
 15. Rohit Tanikella (https://github.com/rohittanikella): Python and Java enthusiast.
+16. Jyothsna Ashok (https://github.com/JyothsnaAshok): An avid learner! Interested in web development.  
